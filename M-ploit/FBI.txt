@@ -1,0 +1,7 @@
+#!/bin/bash
+
+echo Te apetece hackear a la NASA con HTML??
+read varname
+if $varname = nsa
+	echo muy buena eleccion
+
